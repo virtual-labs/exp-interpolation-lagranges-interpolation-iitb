@@ -1,1 +1,1 @@
-## Experiment name
+## Interpolation: Lagrange's Interpolation
