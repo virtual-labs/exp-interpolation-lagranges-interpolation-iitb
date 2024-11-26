@@ -35,3 +35,6 @@ $$ f_{n-1}(x) = \sum^n_{i=1}L_i(x)f(x_i) \qquad \qquad ...equ(4) $$
 $$ L_i(x) = \prod^n_{\substack{j=1 \\j≠i}}\frac{x- x_j}{x_i - x_j} \qquad \qquad ...equ(5) $$
 
 <p>where n = the number of data points and &prod; designates the "product of."</p>
+
+<script type="text/javascript" id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+</script>
