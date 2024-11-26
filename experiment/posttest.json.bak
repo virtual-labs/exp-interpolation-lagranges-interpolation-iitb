@@ -1,0 +1,20 @@
+[
+   {
+      "question": "What is the value of y at x = 4.5 for the given data? <br><br> <img src='./lab-manual/images/post_image1.png' style='width:95%; margin-left:2.5%'' >",
+      "qid": 1,
+      "option_a": "261",
+      "option_b": "537",
+      "option_c": "415",
+      "option_d": "349",
+      "correct_option": "c"
+   },
+   {
+      "question": "What is the value of y at x = 3.5 for the given data? <br><br> <img src='./lab-manual/images/post_image1.png' style='width:95%; margin-left:2.5%'' >",
+      "qid": 2,
+      "option_a": "147.5",
+      "option_b": "103.4",
+      "option_c": "166.9",
+      "option_d": "192.6",
+      "correct_option": "a"
+   }
+]
